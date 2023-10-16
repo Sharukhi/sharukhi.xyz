@@ -1,18 +1,14 @@
 ---
-title: Colophon
+title: Sharukhi
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hi, I’m Sharukhi. I am passionate about all things related to technology. From building computers to coding websites, I love exploring new software and finding creative solutions. I am always up for a challenge and eager to learn and grow. I am also excited about where my love for technology will take me in the future!
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hi, I’m Sharukhi. I am passionate about all things related to technology. From building computers to coding websites, I love exploring new software and finding creative solutions. I am always up for a challenge and eager to learn and grow. I am also excited about where my love for technology will take me in the future!
 
-If you have a question about him or else, just send a letter to him.
+**Contact Me**
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- sharukhi@sharukhi.xyz
+- github.com/sharukhi
