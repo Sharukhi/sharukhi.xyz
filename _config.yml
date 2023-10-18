@@ -13,12 +13,12 @@ author:
   name: Sharukhi # author name
   bio: >- # tell to the world
     Hi, I’m Sharukhi. I am passionate about all things related to technology. From building computers to coding websites, I love exploring new software and finding creative solutions. I am always up for a challenge and eager to learn and grow. I am also excited about where my love for technology will take me in the future!
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  username: sharukhi # general username
+  github: sharukhi # github username
+  twitter: sharukhi_ # twitter username
+  facebook: ataullah.sharukhi # facebook username
+  email: sharukhi@sharukhi.xyz # email adress
+  avatar: https://res.cloudinary.com/dctbpqxex/image/upload/v1696334300/sharukhi.xyz/sharukhi.jpg # change with your own avatar
 
 # URL settings
 url: "https://sharukhi.xyz" #
