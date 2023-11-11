@@ -10,5 +10,7 @@ Hi, I’m Sharukhi. I am passionate about all things related to technology. From
 
 **Contact Me**
 
-- sharukhi@sharukhi.xyz
-- github.com/sharukhi
+- [sharukhi@sharukhi.xyz](sharukhi@sharukhi.xyz)
+- [Github](https://github.com/Sharukhi/)
+- [Instagram](https://instagram.com/ataullah_sharukhi)
+- [Facebook](https://www.facebook.com/ataullah.sharukhi/)
