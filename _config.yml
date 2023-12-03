@@ -1,7 +1,7 @@
 # Site settings
 title: Sharukhi # site title
 description: >- # site description
-  Hi, I’m Sharukhi. I am passionate about all things related to technology. From building computers to coding websites, I love exploring new software and finding creative solutions. I am always up for a challenge and eager to learn and grow. I am also excited about where my love for technology will take me in the future!
+  Hi I'm Sharukhi an indie developer from Bangladesh you can find more about me...
 lang: en-US # default lang
 timezone: Asia/Dhaka # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Sharukhi # author name
   bio: >- # tell to the world
-    Hi, I'm Sharukhi, an indie developer from Bangladesh. You can find more about me [here](https://www.sharukhi.xyz/about/). Also, some of my recent projects are listed below.
+    Hi, I'm Sharukhi, an indie developer from Bangladesh. You can find more about me <a href="https://www.sharukhi.xyz/about/">here</a>. Also, some of my recent projects are listed below.
   username: sharukhi # general username
   github: sharukhi # github username
   twitter: sharukhi_ # twitter username
