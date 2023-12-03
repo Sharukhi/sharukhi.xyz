@@ -1,18 +1,18 @@
 # Site settings
-title: Sharukhi # site title
+title: Ataullah Sharukhi # site title
 description: >- # site description
-  Hi I'm Sharukhi an indie developer from Bangladesh you can find more about me...
+  Hi I'm Ataullah Sharukhi an indie developer from Bangladesh you can find more about me...
 lang: en-US # default lang
 timezone: Asia/Dhaka # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+image: https://avatars.githubusercontent.com/sharukhi/ #assets/img/ogp.png  This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/Sharukhi/sharukhi.xyz/ # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Sharukhi # author name
   bio: >- # tell to the world
-    Hi, I'm Sharukhi, an indie developer from Bangladesh. You can find more about me <a href="https://www.sharukhi.xyz/about/">here</a>. Also, some of my projects are listed below.
+    Hi, I'm Ataullah Sharukhi, an indie developer from Bangladesh. You can find more about me <a href="https://www.sharukhi.xyz/about/">here</a>. Also, some of my projects are listed below.
   username: sharukhi # general username
   github: sharukhi # github username
   twitter: sharukhi_ # twitter username
