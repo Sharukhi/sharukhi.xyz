@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Sharukhi # author name
   bio: >- # tell to the world
-    Hi, I'm Sharukhi, an indie developer from Bangladesh. You can find more about me <a href="https://www.sharukhi.xyz/about/">here</a>. Also, some of my recent projects are listed below.
+    Hi, I'm Sharukhi, an indie developer from Bangladesh. You can find more about me <a href="https://www.sharukhi.xyz/about/">here</a>. Also, some of my projects are listed below.
   username: sharukhi # general username
   github: sharukhi # github username
   twitter: sharukhi_ # twitter username
